@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="popup_titre">Question</string>
+    <string name="popup_contenu">Do you want to quit ?</string>
+    <string name="popup_oui">Yes</string>
+    <string name="popup_non">No</string>
+</resources>
